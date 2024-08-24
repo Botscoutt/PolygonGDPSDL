@@ -1,0 +1,24 @@
+{
+    "id": 1118,
+    "name": "Alternating",
+    "author": "Sync",
+    "creators": ["Sync"],
+    "verifier": "Sync",
+    "verification": "https://www.youtube.com/watch?v=bnUHgngbPwo",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+      {
+        "user": "Botscoutt",
+        "link": "https://youtu.be/239StuN_gn8",
+        "percent": 100,
+        "hz": 435
+          },
+      {
+        "user": "Alva",
+        "link": "https://youtu.be/x3oCQXrMVX8?si=pS6ZM6seOWkskNUg&t=73",
+        "percent": 100,
+        "hz": 435
+          }
+     ]
+}
