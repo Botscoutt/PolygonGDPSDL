@@ -1,0 +1,20 @@
+{
+    "id": id,
+    "name": "level name",
+    "author": "publisher",
+    "creators": ["creators"],
+    "verifier": "verifer 
+    ",
+    "verification": "LEVEL VERIFICATION",
+    "showcase": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "user",
+            "link": "https://youtu.be/TYcCSuhahag",
+            "percent": 100,
+            "hz": 435
+        }
+
+     ]
+}
