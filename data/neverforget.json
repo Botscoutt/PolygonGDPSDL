@@ -1,0 +1,25 @@
+{
+    "id": 1254,
+    "name": "Never Forget",
+    "author": "Flasher08",
+    "creators": ["Flasher08"],
+    "verifier": "CreeperGreg95",
+    "verification": "https://youtu.be/Fj1N2ZQDfPA?feature=shared",
+    "showcase": "",
+    "percentToQualify": 67,
+    "records": [
+        {
+            "user": "poly",
+            "link": "https://www.youtube.com/watch?v=AIelVXB1V9Y",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Alva",
+            "link": "https://youtu.be/vGoLid_7iZE?si=HvcGU9WGPREhP555&t=327",
+            "percent": 100,
+            "hz": 435
+              }
+    ]
+  
+}
