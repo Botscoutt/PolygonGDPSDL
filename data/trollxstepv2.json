@@ -1,0 +1,18 @@
+{
+    "id": 1272,
+    "name": "TrollXstep V2",
+    "author": "tms009",
+    "creators": ["tms009"],
+    "verifier": "igndoom",
+    "verification": "https://www.youtube.com/watch?v=xGo_aT2lZxQ",
+    "showcase": "",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "CreeperGreg95",
+            "link": "https://www.youtube.com/watch?v=BBZgWuU1pgU",
+            "percent": 100,
+            "hz": 435
+              }
+     ]
+}
