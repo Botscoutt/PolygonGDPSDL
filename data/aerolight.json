@@ -1,0 +1,18 @@
+{
+    "id": 1104,
+    "name": "Aerolight",
+    "author": "DarkKA Lonera",
+    "creators": ["DarkKA Lonera"],
+    "verifier": "DarkKA Lonera",
+    "verification": "https://youtu.be/thAZIg1cc08",
+    "showcase": "",
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "Alva",
+            "link": "https://youtu.be/jIZCoIURJKs?si=75Gt6oiouvIxs63o&t=94",
+            "percent": 100,
+            "hz": 435
+              }
+     ]
+}
