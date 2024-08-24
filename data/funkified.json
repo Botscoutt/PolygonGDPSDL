@@ -1,0 +1,24 @@
+{
+    "id": 1149,
+    "name": "Funkified",
+    "author": "TheMaker",
+    "creators": ["TheMaker"],
+    "verifier": "Mechabrandon",
+    "verification": "https://youtu.be/J1BJXtqrkD0",
+    "showcase": "",
+    "percentToQualify": 68,
+    "records": [
+        {
+            "user": "Alva",
+            "link": "https://youtu.be/jIZCoIURJKs?si=9i3SNJ0ilavndAA6&t=356",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Botscoutt",
+            "link": "https://youtu.be/1QZ4N5op0xs",
+            "percent": 100,
+            "hz": 435
+              }
+     ]
+}
