@@ -1,0 +1,18 @@
+{
+    "id": 1155,
+    "name": "I wanna be a machine",
+    "author": "Wayfully",
+    "creators": ["Wayfully"],
+    "verifier": "Wayfully",
+    "verification": "https://youtu.be/JepjHXzW6I4",
+    "showcase": "",
+    "percentToQualify": 70,
+    "records": [
+        {
+            "user": "Alva",
+            "link": "https://youtu.be/jIZCoIURJKs?si=uR5-SFj_JteQd9Vd&t=179",
+            "percent": 100,
+            "hz": 435
+              }
+     ]
+}
