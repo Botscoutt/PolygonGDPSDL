@@ -1,0 +1,36 @@
+{
+    "id": 1066,
+    "name": "50 jumps of hell",
+    "author": "Botscoutt",
+    "creators": ["Botscoutt"],
+    "verifier": "Botscoutt",
+    "verification": "https://youtu.be/GsGocsNzhrw",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Val",
+            "link": "https://www.youtube.com/watch?v=gux-2u-0QUg",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Alva",
+            "link": "https://youtu.be/x3oCQXrMVX8?si=T9zrBYBl-pUsgStl&t=250",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Syrup",
+            "link": "https://www.youtube.com/watch?v=U9pdPUQuHVs",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Reach",
+            "link": "https://www.youtube.com/watch?v=5wj3omXSCPg",
+            "percent": 100,
+            "hz": 435
+              }
+		 ]
+}
