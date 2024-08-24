@@ -1,0 +1,43 @@
+{
+    "id": 1223,
+    "name": "100 jumps of heaven",
+    "author": "Botscoutt",
+    "creators": ["Botscoutt"],
+    "verifier": "Botscoutt",
+    "verification": "https://youtu.be/BafXbNuXdPk",
+    "showcase": "",
+    "percentToQualify": 67,
+    "records": [
+        {
+            "user": "Alva",
+            "link": "https://youtu.be/vGoLid_7iZE?si=IXa8YibpMhUp0_5n&t=84",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Mechabrandon",
+            "link": "https://www.youtube.com/watch?v=6WZnKxcRoM0",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Syrup",
+            "link": "https://www.youtube.com/watch?v=aQrjKNnPooI",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Evnnxi",
+            "link": "https://www.youtube.com/watch?v=zHr1BO9B464",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+                "user": "Reach",
+                "link": "https://www.youtube.com/watch?v=eb69rW0gUqY",
+                "percent": 100,
+                "hz": 435
+                  }
+         ]
+     
+}
