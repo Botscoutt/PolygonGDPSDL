@@ -1,0 +1,30 @@
+{
+    "id": 1052,
+    "name": "MECHABRANDON",
+    "author": "TheMaker",
+    "creators": ["TheMaker"],
+    "verifier": "TheMaker",
+    "verification": "https://youtu.be/GHEtNkWoRwA",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+      {
+        "user": "Botscoutt",
+        "link": "https://youtu.be/Za49uBQ8aNw",
+        "percent": 100,
+        "hz": 435
+          },
+      {
+        "user": "Alva",
+        "link": "https://youtu.be/x3oCQXrMVX8?si=X7sz83KgESglEWEE&t=2",
+        "percent": 100,
+        "hz": 435
+          },
+      {
+        "user": "Mechabrandon",
+        "link": "https://www.youtube.com/watch?v=k2QdmX-ccKQ&list=PLrcLSOdefOOCGV0_VOuFwhhjUI48XKuC5",
+        "percent": 100,
+        "hz": 435
+          }
+		 ]
+}
