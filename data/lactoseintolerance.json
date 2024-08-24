@@ -1,0 +1,18 @@
+{
+    "id": 1320,
+    "name": "Lactose Intolerance",
+    "author": "PartyPooper",
+    "creators": ["Syrup"],
+    "verifier": "Syrup",
+    "verification": "https://www.youtube.com/watch?v=SRfeKEWcirY",
+    "showcase": "",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "igndoom",
+            "link": "https://youtu.be/zP26pkLObUQ",
+            "percent": 100,
+            "hz": 435
+        }
+     ]
+}
