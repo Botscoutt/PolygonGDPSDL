@@ -1,0 +1,24 @@
+{
+    "id": 1023,
+    "name": "Smiling Sunflowers",
+    "author": "Raen",
+    "creators": ["Raen"],
+    "verifier": "Raen",
+    "verification": "https://youtu.be/pnYdRAdoBcU?si=RsEIiUjdY-Ly5PmY",
+    "showcase": "",
+    "percentToQualify": 69,
+    "records": [
+      {
+        "user": "DarkKA Lonera",
+        "link": "https://youtu.be/eRODIyh8r1w",
+        "percent": 100,
+        "hz": 435
+          },
+      {
+        "user": "Alva",
+        "link": "https://youtu.be/x3oCQXrMVX8?si=V0Ffc--Q1RNkk7mE&t=443",
+        "percent": 100,
+        "hz": 435
+          }
+		 ]
+}
