@@ -1,17 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "Botscoutt",
-        "link": "https://www.youtube.com/@Botscoutter"
+        "name": "izzie",
+        "link": "https://www.youtube.com/@thatdevizzie"
     },
-  {
-      "role": "dev",
-      "name": "theonekingboo",
-      "link": "https://www.youtube.com/@theonekingboo"
-  },
     {
           "role": "dev",
-          "name": "igndoom",
+          "name": "botscoutt",
+          "link": "https://www.youtube.com/@botscoutter"
+      },
+       {
+          "role": "dev",
+          "name": "doom",
           "link": "https://www.youtube.com/@igndoom651"
       }
   
