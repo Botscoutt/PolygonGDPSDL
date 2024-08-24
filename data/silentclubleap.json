@@ -1,0 +1,25 @@
+{
+    "id": 1288,
+    "name": "Silent Clubleap",
+    "author": "Botscoutt",
+    "creators": ["Botscoutt"],
+    "verifier": "Botscoutt",
+    "verification": "https://www.youtube.com/watch?v=aHplUGrT2F0",
+    "showcase": "",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "Alva",
+            "link": "https://youtu.be/jIZCoIURJKs?si=ozSmbMPUWJ9oc6UB&t=442",
+            "percent": 100,
+            "hz": 435
+              },
+        {
+            "user": "Syrup",
+            "link": "https://www.youtube.com/watch?v=ID_ndxweZI4",
+            "percent": 100,
+            "hz": 435
+              }
+    ]
+    
+}
