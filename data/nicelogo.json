@@ -3,10 +3,16 @@
     "name": "Nice Logo",
     "author": "Sync",
     "creators": ["Sync"],
-    "verifier": "Xero",
-    "verification": "https://youtu.be/i-Ff-rbY5rY?si=Jp3dP6FNGhj6FSk_",
+    "verifier": "Sync",
+    "verification": "https://www.youtube.com/watch?v=0iKFRN_Ns7Q",
     "showcase": "",
     "percentToQualify": 100,
     "records": [
+         {
+            "user": "Xero",
+            "link": "https://www.youtube.com/watch?v=i-Ff-rbY5rY",
+            "percent": 100,
+            "hz": 435
+              }
      ]
 }
