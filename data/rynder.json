@@ -8,5 +8,11 @@
     "showcase": "",
     "percentToQualify": 67,
     "records": [
+          {
+            "user": "Alva",
+            "link": "https://www.youtube.com/watch?v=JWY0xDxSzGQ",
+            "percent": 100,
+            "hz": 435
+              }
      ]
 }
