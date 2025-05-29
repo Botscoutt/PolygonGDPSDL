@@ -3,8 +3,7 @@
     "name": "level name",
     "author": "publisher",
     "creators": ["creators"],
-    "verifier": "verifer 
-    ",
+    "verifier": "verifer",
     "verification": "LEVEL VERIFICATION",
     "showcase": "",
     "percentToQualify": 50,
