@@ -4,7 +4,7 @@ import Roulette from './pages/Roulette.js';
 import ListPacks from './pages/ListPacks.js';
 
 export default [
-    { path: '/list', component: List },
+    { path: '/', component: List },
     { path: '/leaderboard', component: Leaderboard },
     { path: '/roulette', component: Roulette },
     { path: '/list-pack', component: ListPacks },
