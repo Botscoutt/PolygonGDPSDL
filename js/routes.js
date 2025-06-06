@@ -6,5 +6,5 @@ import List-Packs from './pages/ListPacks.js';
 export default [
     { path: '/', component: List },
     { path: '/leaderboard', component: Leaderboard },
-    { path: '/list-pack', component: List-Packs },
+    { path: '/list-pack', component: ListPacks },
 ];
