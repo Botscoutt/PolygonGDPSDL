@@ -52,14 +52,9 @@
                     <span class="type-label-lg">Roulette</span>
                 </router-link>
                 <div class="nav__actions">
-                    <button
-                        class="nav__icon"
-                        @click.prevent="store.toggleDark()"
-                    >
-                        <img
-                            :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
-                            alt=""
-                        />
+                    <button class="nav__icon" @click.prevent="store.toggleDark()"
+                        <img :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
+                            alt=""/>
                     </button>
                     <!-- Replace the '#' with your discord server's invite-->
                     <a class="nav__icon" href="https://discord.gg/8yAvmjqbXX">
@@ -70,8 +65,7 @@
                         class="nav__cta type-label-lg"
                         href="https://forms.gle/WGDcW7PJGSZYcgaZ6"
                         target="_blank"
-                        >Submit Record</a
-                    >
+                        >Submit Record</a>
                 </div>
             </nav>
         </header>
