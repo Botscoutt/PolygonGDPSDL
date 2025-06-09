@@ -7,5 +7,14 @@
             "470joh"
         ],
         "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
+    },
+{
+        "name": "World Wide Web Trilogy",
+        "levels": [
+            "waterlight",
+            "watchthis",
+            "wvae"
+        ],
+        "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
     }
 ]
