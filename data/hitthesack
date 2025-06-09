@@ -1,12 +1,12 @@
 {
     "id": 1328,
-    "name": "hit the sack",
+    "name": "Hit The Sack",
     "author": "Reach",
     "creators": ["Reach"],
     "verifier": "Reach",
-    "verification": "https://www.youtube.com/watch?v=oREJiOAdNdw",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "verification": "https://www.youtube.com/watch?v=6j265TawLVI",
+    "showcase": "",
+    "percentToQualify": 60,
     "records": [
-    ]
+                 ]
 }
