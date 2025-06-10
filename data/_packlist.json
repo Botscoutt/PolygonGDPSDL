@@ -6,7 +6,7 @@
             "100jumpsofheaven",
             "470joh"
         ],
-        "colour": "radial-gradient(circle,rgba(0, 166, 232, 1) 0%, rgba(207, 243, 252, 1) 33%, rgba(255, 255, 255, 1) 75%);"
+        "colour": "radial-gradient(circle,rgba(0, 166, 232, 1) 0%, rgba(207, 243, 252, 1) 33%, rgba(255, 255, 255, 1) 75%)"
     },
 {
         "name": "World Wide Web Pack",
@@ -15,7 +15,7 @@
             "watchthis",
             "wvae"
         ],
-        "colour": "radial-gradient(circle,rgba(110, 0, 184, 1) 35%, rgba(60, 0, 255, 1) 50%, rgba(143, 0, 156, 1) 100%);"
+        "colour": "radial-gradient(circle,rgba(110, 0, 184, 1) 35%, rgba(60, 0, 255, 1) 50%, rgba(143, 0, 156, 1) 100%)"
     },
     	{   
 		"name": "Dreamlike Pack",
