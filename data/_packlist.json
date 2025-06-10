@@ -36,4 +36,5 @@
 			"waterlight"
 		],
 		"colour": "radial-gradient(circle, rgba(46,84,166,1) 9%, rgba(33,255,0,1) 32%, rgba(255,143,0,1) 55%, rgba(255,255,255,1) 100%)"
+        }
 ]
