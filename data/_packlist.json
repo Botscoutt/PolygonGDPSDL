@@ -26,7 +26,7 @@
 			"prologue"
 		],
 		"colour": "radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)"
-        }
+        },
     {   
 		"name": "Light Pack",
 		"levels": [
@@ -36,4 +36,5 @@
 			"waterlight"
 		],
 		"colour": "radial-gradient(circle, rgba(46,84,166,1) 9%, rgba(33,255,0,1) 32%, rgba(255,143,0,1) 55%, rgba(255,255,255,1) 100%)"
-]
+    
+        ]
