@@ -6,15 +6,24 @@
             "100jumpsofheaven",
             "470joh"
         ],
-        "colour": "linear-gradient(90deg, rgba(0,53,250,1) 0%, rgba(0,24,97,1) 50%, rgba(0,53,250,1) 100%)"
+        "colour": "radial-gradient(circle,rgba(0, 166, 232, 1) 0%, rgba(207, 243, 252, 1) 33%, rgba(255, 255, 255, 1) 75%);"
     },
 {
-        "name": "World Wide Web Trilogy",
+        "name": "World Wide Web Pack",
         "levels": [
             "waterlight",
             "watchthis",
             "wvae"
         ],
-        "colour": "linear-gradient(90deg,rgba(29, 57, 194, 1) 0%, rgba(119, 39, 143, 1) 100%);"
-    }
+        "colour": "radial-gradient(circle,rgba(110, 0, 184, 1) 35%, rgba(60, 0, 255, 1) 50%, rgba(143, 0, 156, 1) 100%);"
+    },
+    	{   
+		"name": "Dreamlike Pack",
+		"levels": [
+			"leave_this_dream",
+			"smiling_sunflowers",
+			"neverforget",
+			"prologue"
+		],
+		"colour": "radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%)"
 ]
