@@ -8,5 +8,11 @@
     "showcase": "",
     "percentToQualify": 60,
     "records": [
+        {
+            "user": "suqoe",
+            "link": "https://www.youtube.com/watch?v=nhDnhuBh0CQ",
+            "percent": 100,
+            "hz": 435
+              }
                  ]
 }
